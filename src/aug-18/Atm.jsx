@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./ATM.css";
+import "./Atm.css";
 
 function Atm() {
   const [balance, setBalance] = useState(10000);
